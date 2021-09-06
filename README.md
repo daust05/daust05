@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ---
-####Skills  
+#### Skills  
 
-Platforms
+Platforms  
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=SpringBoot&logoColor=FFFFFF"/>  
 
 Languanges  
