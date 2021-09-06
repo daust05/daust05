@@ -4,7 +4,7 @@
 Skills  
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=SpringBoot&logoColor=FFFFFF"/>  
   
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=plastic&logo=Kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=FFFFFF"/>  
+<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=plastic&logo=Kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=Cplusplus&logoColor=FFFFFF"/>  
 
 
 
