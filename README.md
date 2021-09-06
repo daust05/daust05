@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ---
-Skills
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
+Skills  
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=6DB33F"/>
 
 <!--
 **daust05/daust05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
